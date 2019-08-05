@@ -98,7 +98,8 @@
   </dependency>
 ```
 
-* 搭建spring环境   
+* 搭建spring环境  
+![o1.jpg](https://github.com/chaooWoo/ssm-simple-merge/blob/master/img/01.png?raw=true)    
 按照所示的包结构，创建dao层，service层，controller层，pojo，在resource包中创建spring配置文件applicationContext.xml，导入最全约束
 ```
 <?xml version="1.0" encoding="UTF-8"?>
